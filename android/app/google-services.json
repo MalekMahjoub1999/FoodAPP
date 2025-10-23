@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445075982399",
+    "project_id": "cuisineapp-5d031",
+    "storage_bucket": "cuisineapp-5d031.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445075982399:android:ca0a95e182b94f85bed08a",
+        "android_client_info": {
+          "package_name": "com.example.apprecette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIxVlHUx3HgbxwbhlRnbmdVp8Ea0N6YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
